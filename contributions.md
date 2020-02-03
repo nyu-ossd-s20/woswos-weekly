@@ -25,3 +25,4 @@ Replace the first row with your own contribution.
 | Feb 2   | [OSM changeset link](https://www.openstreetmap.org/changeset/80446062){:target="_blank"}            | OpenStreet Map feature | Added the missing details for the NYU Gramercy Green dormitory |
 | Feb 2   | [OSM changeset link](https://www.openstreetmap.org/changeset/80446794){:target="_blank"}            | OpenStreet Map feature | Added my home back in Turkey and other homes in the neighborhood |
 | Feb 2   | [OSM changeset link](https://www.openstreetmap.org/changeset/80447169){:target="_blank"}            | OpenStreet Map feature | Realigned some of the buildings, added some of the parks and created the area for the Manas University campus |
+| Feb 3   | [OSM changeset link](https://www.openstreetmap.org/changeset/80496095){:target="_blank"}            | OpenStreet Map feature | Added more buildings and fixed the marina area in my home town |
