@@ -351,3 +351,18 @@ table {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.image-centered
+{
+margin: 0 auto;
+display: block;
+}
+
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
