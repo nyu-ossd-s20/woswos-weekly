@@ -31,3 +31,4 @@ Replace the first row with your own contribution.
 | Feb 6   | [OSM changeset 1](https://www.openstreetmap.org/changeset/80657674){:target="_blank"} <br> [OSM changeset 2](https://www.openstreetmap.org/changeset/80658025){:target="_blank"} | OpenStreet Map feature | Added more roads and grass areas within my school |
 | Feb 7   | [OSM changeset](https://www.openstreetmap.org/changeset/80710531){:target="_blank"} | OpenStreet Map feature | Finished editing and aligning the buildings, roads, and areas within my high school |
 | Feb 10   | [Wikipedia edit link](https://en.wikipedia.org/w/index.php?title=Lalibela&oldid=940042590){:target="_blank"} | Wikipedia edit |  Updated broken reference link |
+| Feb 18   | [GitHub issue link](https://github.com/joannakl/ossd_s20/issues/14){:target="_blank"} | Course Website |  Fixed a typo |
