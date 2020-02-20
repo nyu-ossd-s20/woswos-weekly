@@ -32,3 +32,5 @@ Replace the first row with your own contribution.
 | Feb 7   | [OSM changeset](https://www.openstreetmap.org/changeset/80710531){:target="_blank"} | OpenStreet Map feature | Finished editing and aligning the buildings, roads, and areas within my high school |
 | Feb 10   | [Wikipedia edit link](https://en.wikipedia.org/w/index.php?title=Lalibela&oldid=940042590){:target="_blank"} | Wikipedia edit |  Updated broken reference link |
 | Feb 18   | [GitHub issue link](https://github.com/joannakl/ossd_s20/issues/14){:target="_blank"} | Course Website |  Fixed a typo |
+| Feb 19   | [OSM changeset 1](https://www.openstreetmap.org/changeset/81244337){:target="_blank"} <br> [OSM changeset 2](https://www.openstreetmap.org/changeset/81245051){:target="_blank"} <br> [OSM changeset 3](https://www.openstreetmap.org/changeset/81245319){:target="_blank"}| OpenStreet Map feature | Updated the name of the buildings within my school |
+| Feb 20   | [GitHub issue link](https://github.com/gcallah/Emu86/issues/27){:target="_blank"} | Emu86 Project |  The project doesn't have any license and created an issue that mentioned this problem |
