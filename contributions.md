@@ -38,3 +38,4 @@ Replace the first row with your own contribution.
 | Feb 23   | [GitHub issue link](https://github.com/apertium/apertium-html-tools/issues/363){:target="_blank"} | Apertium |  Discovered an important security vulnerability in the project and reported the vulnerability in the project repository|
 | Feb 26   | [trac.torproject.org issue link](https://trac.torproject.org/projects/tor/ticket/33470){:target="_blank"} | Tor Project |  Fixed a typo in the documentation |
 | Feb 29   | [trac.torproject.org issue link](https://trac.torproject.org/projects/tor/ticket/33490){:target="_blank"} | Tor Project |  Found a possible security vulnerability in the Tor Project's website onion service, and suggested a solution to solve the issue|
+| March 6   | [OSM changeset](https://www.openstreetmap.org/changeset/81888212){:target="_blank"} | OpenStreet Map feature | Added missing houses and the forest area in a town  |
