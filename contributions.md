@@ -39,3 +39,5 @@ Replace the first row with your own contribution.
 | Feb 26   | [trac.torproject.org issue link](https://trac.torproject.org/projects/tor/ticket/33470){:target="_blank"} | Tor Project |  Fixed a typo in the documentation |
 | Feb 29   | [trac.torproject.org issue link](https://trac.torproject.org/projects/tor/ticket/33490){:target="_blank"} | Tor Project |  Found a possible security vulnerability in the Tor Project's website onion service, and suggested a solution to solve the issue|
 | March 6   | [OSM changeset](https://www.openstreetmap.org/changeset/81888212){:target="_blank"} | OpenStreet Map feature | Added missing houses and the forest area in a town  |
+| March 9   | [trac.torproject.org issue link](https://trac.torproject.org/projects/tor/ticket/33010#comment:14){:target="_blank"} | Tor Project |  Performed experiments and tests for an issue reported to help developers fix the reported issue |
+| March 16   | [OSM changeset](https://www.openstreetmap.org/changeset/82278240){:target="_blank"} | OpenStreet Map feature | Added houses and missing roads in a town of Turkey |
