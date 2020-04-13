@@ -46,3 +46,4 @@ Replace the first row with your own contribution.
 | March 29   | [Wikipedia edit link (TR)](https://tr.wikipedia.org/w/index.php?title=Fikret_%C5%9Eene%C5%9F&oldid=21901167){:target="_blank"} <br> [Wikipedia edit link (EN)](https://en.wikipedia.org/w/index.php?title=Fikret_%C5%9Eene%C5%9F&oldid=948083065){:target="_blank"}| Wikipedia edit |  Added missing songs for a songs writer's bio page for the Turkish and English versions of the article|
 | March 31   | [GitHub pull request link](https://github.com/google/gsocguides/pull/49){:target="_blank"} | Google Summer of Code Guides |  Fixed a typo |
 | April 5   | [GitHub issue link](https://github.com/joannakl/ossd_s20/issues/25){:target="_blank"} | Course Website |  Reported another typo |
+| April 12   | [OSM changeset](https://www.openstreetmap.org/changeset/83446086){:target="_blank"} | OpenStreet Map feature | Added missing houses in my home town |
