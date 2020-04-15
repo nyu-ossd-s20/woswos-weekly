@@ -47,3 +47,4 @@ Replace the first row with your own contribution.
 | March 31   | [GitHub pull request link](https://github.com/google/gsocguides/pull/49){:target="_blank"} | Google Summer of Code Guides |  Fixed a typo |
 | April 5   | [GitHub issue link](https://github.com/joannakl/ossd_s20/issues/25){:target="_blank"} | Course Website |  Reported another typo |
 | April 12   | [OSM changeset](https://www.openstreetmap.org/changeset/83446086){:target="_blank"} | OpenStreet Map feature | Added missing houses in my home town |
+| April 15   | [Wikipedia edit link](https://tr.wikipedia.org/w/index.php?title=Buzdolab%C4%B1_%C3%B6l%C3%BCm%C3%BC&oldid=22081803){:target="_blank"} | Wikipedia translation | Created the "Refrigerator death" page in Turkish wikipedia since it didn't exist |
