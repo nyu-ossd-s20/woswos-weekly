@@ -49,3 +49,4 @@ Replace the first row with your own contribution.
 | April 12   | [OSM changeset](https://www.openstreetmap.org/changeset/83446086){:target="_blank"} | OpenStreet Map feature | Added missing houses in my home town |
 | April 15   | [Wikipedia edit link](https://tr.wikipedia.org/w/index.php?title=Buzdolab%C4%B1_%C3%B6l%C3%BCm%C3%BC&oldid=22081803){:target="_blank"} | Wikipedia translation | Created the "Refrigerator death" page in Turkish wikipedia since it didn't exist |
 | April 16   | [Wikipedia edit link](https://tr.wikipedia.org/w/index.php?title=Buzdolab%C4%B1&diff=prev&oldid=22095155){:target="_blank"} | Wikipedia edit | Fixed typos in the Turkish "refrigerator" page |
+| April 21   | [GitHub issue link](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks/issues/1379){:target="_blank"} | Xiaomi DaFang Hacks |  This project doesn't have any license and created an issue to notify the maintainers about this issue |
