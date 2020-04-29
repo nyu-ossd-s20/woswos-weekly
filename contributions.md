@@ -47,7 +47,8 @@ Replace the first row with your own contribution.
 | March 31   | [GitHub pull request link](https://github.com/google/gsocguides/pull/49){:target="_blank"} | Google Summer of Code Guides |  Fixed a typo |
 | April 5   | [GitHub issue link](https://github.com/joannakl/ossd_s20/issues/25){:target="_blank"} | Course Website |  Reported another typo |
 | April 12   | [OSM changeset](https://www.openstreetmap.org/changeset/83446086){:target="_blank"} | OpenStreet Map feature | Added missing houses in my home town |
-| April 15   | [Wikipedia edit link](https://tr.wikipedia.org/w/index.php?title=Buzdolab%C4%B1_%C3%B6l%C3%BCm%C3%BC&oldid=22081803){:target="_blank"} | Wikipedia translation | Created the "Refrigerator death" page in Turkish wikipedia since it didn't exist |
+| April 15   | [Wikipedia edit link](https://tr.wikipedia.org/w/index.php?title=Buzdolab%C4%B1_%C3%B6l%C3%BCm%C3%BC&oldid=22081803){:target="_blank"} | Wikipedia translation | Created and translated the "Refrigerator death" page in Turkish Wikipedia since it didn't exist |
 | April 16   | [Wikipedia edit link](https://tr.wikipedia.org/w/index.php?title=Buzdolab%C4%B1&diff=prev&oldid=22095155){:target="_blank"} | Wikipedia edit | Fixed typos in the Turkish "refrigerator" page |
 | April 21   | [GitHub issue link](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks/issues/1379){:target="_blank"} | Xiaomi DaFang Hacks |  This project doesn't have any license and created an issue to notify the maintainers about this issue |
 | April 23   | [OSM changeset](https://www.openstreetmap.org/changeset/84031755){:target="_blank"} | OpenStreet Map feature | Added missing houses, roads, and swimming pools in my home town |
+| April 28   | [Wikipedia edit link](https://tr.wikipedia.org/w/index.php?title=Null_karakter&oldid=22236896){:target="_blank"} | Wikipedia translation | Created and translated the "Null character" page in Turkish Wikipedia since it didn't exist |
