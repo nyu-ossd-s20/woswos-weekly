@@ -53,3 +53,4 @@ Replace the first row with your own contribution.
 | April 23   | [OSM changeset](https://www.openstreetmap.org/changeset/84031755){:target="_blank"} | OpenStreet Map feature | Added missing houses, roads, and swimming pools in my home town |
 | April 28   | [Wikipedia edit link](https://tr.wikipedia.org/w/index.php?title=Null_karakter&oldid=22236896){:target="_blank"} | Wikipedia translation | Created and translated the "Null character" page in Turkish Wikipedia since it didn't exist |
 | April 30   | [GitHub issue link](https://github.com/rkbhochalya/grayscale-mode/issues/6){:target="_blank"} | Grayscale Mode App | Made a suggestion for creating a separate icon for dark mode |
+| May 6   | [OSM changeset](https://www.openstreetmap.org/changeset/84778990){:target="_blank"} | OpenStreet Map feature | Added more missing houses, roads, and swimming pools in my home town |
